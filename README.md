@@ -91,7 +91,7 @@ Answer: a
     * b. False
 Answer: a
 ## Short-answer DataCamp-styled Notebook questions 
-<p>
+```
 # Import what we need
 import requests
 from bs4 import BeautifulSoup
@@ -124,7 +124,7 @@ tokens = ----------------------
 
 #Part 8 Printing out the first 10 words / tokens 
 ----------------------
-</p>
+```
 
 Answer:
 ```
