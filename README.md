@@ -164,7 +164,9 @@ Using the LinearRegression with features of house in Boston Dataset to predict p
 Print the scatter of actual price and predict price. It should look like this:
 ```
 ## Mini task on dataset 
-<p> Load the Boston Dataset in Sklearn. Creating LinearRegression to fit feature and price of house. Using the LinearRegression with features of house in Boston Dataset to predict price of house. Print the scatter of actual price and predict price. It should look like this: </p>
+<p> Load the Boston Dataset in Sklearn. Creating LinearRegression to fit feature and price of house. </p>
+<p> Using the LinearRegression with features of house in Boston Dataset to predict price of house. </p>
+<p> Print the scatter of actual price and predict price. </p>
 
 Answer:
 ```
