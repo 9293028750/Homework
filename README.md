@@ -1,5 +1,5 @@
 # Midterm question SAMPLE for the class DSE-I1020 (Intro to Data Science) 
-## Multiple choice concept questions (total: 8)
+## Multiple choice concept questions
 1. What is Not the technique for Machine Learning?
     - a. Supervised learning
     - b. Intelligent learning
@@ -55,7 +55,7 @@ Answer: (b)
     * c. Points, Lines and Rectangle
     * d. Points, Lines and regional polygons
 Answer: (d)
-## True-false choice (total: 7)
+## True-false choice 
 1. Data visualization is the mouthpiece of the data. 
     * a. True 
     * b. False
@@ -90,8 +90,8 @@ Answer: a
     * a. True 
     * b. False
 Answer: a
-## Short-answer DataCamp-styled Notebook questions (total: 5)
-```
+## Short-answer DataCamp-styled Notebook questions 
+<p>
 # Import what we need
 import requests
 from bs4 import BeautifulSoup
@@ -124,7 +124,7 @@ tokens = ----------------------
 
 #Part 8 Printing out the first 10 words / tokens 
 ----------------------
-```
+</p>
 
 Answer:
 ```
@@ -163,8 +163,8 @@ Using the LinearRegression with features of house in Boston Dataset to predict p
 
 Print the scatter of actual price and predict price. It should look like this:
 ```
-## Mini task on dataset (total: 1)
-> Load the Boston Dataset in Sklearn. Creating LinearRegression to fit feature and price of house. Using the LinearRegression with features of house in Boston Dataset to predict price of house. Print the scatter of actual price and predict price. It should look like this:
+## Mini task on dataset 
+<p> Load the Boston Dataset in Sklearn. Creating LinearRegression to fit feature and price of house. Using the LinearRegression with features of house in Boston Dataset to predict price of house. Print the scatter of actual price and predict price. It should look like this: </p>
 
 Answer:
 ```
