@@ -1,4 +1,4 @@
-# Midterm question SAMPLE for the class DSE-I1020 (Intro to Data Science) 
+# Midterm sample for the class DSE-I1020
 ## Multiple choice concept questions
 1. What is Not the technique for Machine Learning?
     - a. Supervised learning
