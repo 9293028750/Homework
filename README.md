@@ -1,92 +1,92 @@
 # Midterm question SAMPLE for the class DSE-I1020 (Intro to Data Science) 
 ## Multiple choice concept questions (total: 8)
-Q1. What is Not the technique for Machine Learning?
-    * a. Supervised learning
-    * b. Intelligent learning
-    * c. Deep Learing
-    * d. Reinforcement learning
+1. What is Not the technique for Machine Learning?
+    - a. Supervised learning
+    - b. Intelligent learning
+    - c. Deep Learing
+    - d. Reinforcement learning
 Answer: (b)
 
-Q2. Here is a Set s ={23, 2, 8}. What may be the result after operating s.add(8)?
+2. Here is a Set s ={23, 2, 8}. What may be the result after operating s.add(8)?
     * a. {23, 2, 8, 8}
     * b. {8, 23, 2, 8,}
     * c. {23, 8, 2}
     * d. {23, 2}
 Answer: (c)
 
-Q3. What is Not the appropriate situation for applying Tuples?
+3. What is Not the appropriate situation for applying Tuples?
     * a. Useful when you wan to provide information that cannot be changed
     * b. Stores unique dates
     * c. Most extreme case since structure has no function
     * d. Supports iterration, indexing, contains
 Answer: (d)
 
-Q4. Bayes theorem is often used to?
+4. Bayes theorem is often used to?
     * a. compute P(A|B) when P(A) and P(B) are known
     * b. relate P(A|B) to P(B|A)
     * c. compute P(A,B) from P(C)
     * d. relate P(A,B) to P(C)
 Answer: (b)
 
-Q5. What is Not the functions of Explanatory Data Visualization?
+5. What is Not the functions of Explanatory Data Visualization?
     * a. Having an understanding of the data outcome
     * b. Communicate data outcome to clients
     * c. Particularly useful for data scientists
     * d. Make data looks tidy
 Answer: (d)
 
-Q6. Time series analysis basic statistic model are great at
+6. Time series analysis basic statistic model are great at
     * a. recognizing a trend
     * b. evaluating the performance of model
     * c. predicting the next value in a series
     * d. captureing the periodic pattens
 Answer: (a)
 
-Q7. What is most important for data stroytelling?
+7. What is most important for data stroytelling?
     * a. Elaborate explanation
     * b. Emotional connection
     * c. Unbiased statement
     * d. Clear data visualization
 Answer: (b)
 
-Q8. Vector Data GIS data is best for storing?
+8. Vector Data GIS data is best for storing?
     * a. Points, Circle and Rectangle
     * b. Points, Lines and Circle
     * c. Points, Lines and Rectangle
     * d. Points, Lines and regional polygons
 Answer: (d)
 ## True-false choice (total: 7)
-Q1. Data visualization is the mouthpiece of the data. 
+1. Data visualization is the mouthpiece of the data. 
     * a. True 
     * b. False
 Answer: a
 
-Q2. Statistical Time series analysis can predict black swans. 
+2. Statistical Time series analysis can predict black swans. 
     * a. True 
     * b. False
 Answer: b （It can't predict black swans）
 
-Q3. Google's alpha go beat the Go champion using supervised learning. 
+3. Google's alpha go beat the Go champion using supervised learning. 
     * a. True 
     * b. False
 Answer: b (using Reinforcement learning)
 
-Q4. To master the art of data analysis, you need to a good story teller and EDV helps you achive taht. 
+4. To master the art of data analysis, you need to a good story teller and EDV helps you achive taht. 
     * a. True 
     * b. False
 Answer: a
 
-Q5. Supervised learning finds patterns in data. Unsupervised learning finds patterns for a prediction task.
+5. Supervised learning finds patterns in data. Unsupervised learning finds patterns for a prediction task.
     * a. True 
     * b. False
 Answer: b (It would be right if exchanging the subject of the two sentence)
 
-Q6. Neural networks account for interactions really well. 
+6. Neural networks account for interactions really well. 
     * a. True 
     * b. False
 Answer: a
     
-Q7. Machine learning can give computers the ability to learn to make decisions from data. 
+7. Machine learning can give computers the ability to learn to make decisions from data. 
     * a. True 
     * b. False
 Answer: a
@@ -163,6 +163,8 @@ Using the LinearRegression with features of house in Boston Dataset to predict p
 
 Print the scatter of actual price and predict price. It should look like this:
 ```
+## Mini task on dataset (total: 1)
+> Load the Boston Dataset in Sklearn. Creating LinearRegression to fit feature and price of house. Using the LinearRegression with features of house in Boston Dataset to predict price of house. Print the scatter of actual price and predict price. It should look like this:
 
 Answer:
 ```
