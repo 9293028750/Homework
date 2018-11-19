@@ -5,6 +5,7 @@
     - b. Intelligent learning
     - c. Deep Learing
     - d. Reinforcement learning
+
 Answer: (b)
 
 2. Here is a Set s ={23, 2, 8}. What may be the result after operating s.add(8)?
@@ -12,6 +13,7 @@ Answer: (b)
     * b. {8, 23, 2, 8,}
     * c. {23, 8, 2}
     * d. {23, 2}
+
 Answer: (c)
 
 3. What is Not the appropriate situation for applying Tuples?
@@ -26,6 +28,7 @@ Answer: (d)
     * b. relate P(A|B) to P(B|A)
     * c. compute P(A,B) from P(C)
     * d. relate P(A,B) to P(C)
+
 Answer: (b)
 
 5. What is Not the functions of Explanatory Data Visualization?
@@ -33,6 +36,7 @@ Answer: (b)
     * b. Communicate data outcome to clients
     * c. Particularly useful for data scientists
     * d. Make data looks tidy
+
 Answer: (d)
 
 6. Time series analysis basic statistic model are great at
@@ -40,6 +44,7 @@ Answer: (d)
     * b. evaluating the performance of model
     * c. predicting the next value in a series
     * d. captureing the periodic pattens
+
 Answer: (a)
 
 7. What is most important for data stroytelling?
@@ -47,6 +52,7 @@ Answer: (a)
     * b. Emotional connection
     * c. Unbiased statement
     * d. Clear data visualization
+
 Answer: (b)
 
 8. Vector Data GIS data is best for storing?
@@ -54,41 +60,49 @@ Answer: (b)
     * b. Points, Lines and Circle
     * c. Points, Lines and Rectangle
     * d. Points, Lines and regional polygons
+
 Answer: (d)
 ## True-false choice 
 1. Data visualization is the mouthpiece of the data. 
     * a. True 
     * b. False
+
 Answer: a
 
 2. Statistical Time series analysis can predict black swans. 
     * a. True 
     * b. False
+
 Answer: b （It can't predict black swans）
 
 3. Google's alpha go beat the Go champion using supervised learning. 
     * a. True 
     * b. False
+
 Answer: b (using Reinforcement learning)
 
 4. To master the art of data analysis, you need to a good story teller and EDV helps you achive taht. 
     * a. True 
     * b. False
+
 Answer: a
 
 5. Supervised learning finds patterns in data. Unsupervised learning finds patterns for a prediction task.
     * a. True 
     * b. False
+
 Answer: b (It would be right if exchanging the subject of the two sentence)
 
 6. Neural networks account for interactions really well. 
     * a. True 
     * b. False
+
 Answer: a
     
 7. Machine learning can give computers the ability to learn to make decisions from data. 
     * a. True 
     * b. False
+
 Answer: a
 ## Short-answer DataCamp-styled Notebook questions 
 ```
